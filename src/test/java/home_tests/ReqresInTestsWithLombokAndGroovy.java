@@ -1,8 +1,8 @@
 package home_tests;
 
-import api.models.newmodels.lombok.ListUser;
-import api.models.newmodels.lombok.LombokUserData;
-import api.models.newmodels.lombok.User;
+import api.models.newmodels.model.ListUser;
+import api.models.newmodels.model.LombokUserData;
+import api.models.newmodels.model.User;
 import io.qameta.allure.Story;
 import org.junit.jupiter.api.Test;
 
