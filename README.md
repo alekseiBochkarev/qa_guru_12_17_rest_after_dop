@@ -1,7 +1,7 @@
-# Проект по автоматизации тестирования API проекта "Demoqa"
-<img title="Wiki img" src="images/demoqa.png">
+# Проект по автоматизации тестирования API проекта "Reqres.in"
+<img title="ReqresIn img" src="images/reqresIn.png">
 
-#### <a target="_blank" href="https://demoqa.com/">Ссылка на ресурс</a>
+#### <a target="_blank" href="https://reqres.in/">Ссылка на ресурс</a>
 
 ## :computer: Технологии и инструменты
 <p align="center">
